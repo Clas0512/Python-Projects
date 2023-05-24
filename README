@@ -1,0 +1,5 @@
+This is a program that the using sqlite database
+
+Write "make" to shell for run the program.
+
+Write "cleandb" for delete database when you see name question.
